@@ -16,3 +16,5 @@ The **File Compression Tool** is a Windows Forms application developed in C# tha
 ## 🖼 Screenshots from the app
 
 ![compression UI](screenshots-/sample1.png)
+![compression UI](screenshots-/sample2.png)
+![compression UI](screenshots-/sample3.png)
