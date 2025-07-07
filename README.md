@@ -11,10 +11,22 @@ The **File Compression Tool** is a Windows Forms application developed in C# tha
 - **📈 Progress Tracking**: Visual progress bar and percentage display for compression/decompression tasks.
 - **⏸️▶️ Pause/Resume and Cancel**: Pause or cancel ongoing operations.
 - **⚔️ Algorithm Comparison**: Compare the performance (size and time) of Huffman and Shannon-Fano algorithms on selected files.
-- **🙌 User-Friendly Interface**: Intuitive UI with clear controls and multilingual (Arabic/English) feedback.
+- **🙌 User-Friendly Interface**: Intuitive UI with clear controls.
+
+
+## **Where are these algorithms useful?**
+- If a file contains many repeated symbols or patterns, Huffman and Shannon-Fano coding can compress it significantly.
+- Conversely, if the data is mostly random or has little repetition, the compression results will be limited or may not reduce the size noticeably.
+- These algorithms work well for data with lots of redundancy, making them suitable for text files, logs, and certain types of media with repetitive patterns(e.g., JSON).
+  
+*Note: 🖇 * While Huffman and Shannon-Fano coding are excellent educational tools, modern applications often employ more advanced algorithms like ZIP, LZMA, or DEFLATE for practical use.
 
 ## 🖼 Screenshots from the app
 
 ![compression UI](screenshots-/sample1.png)
 ![compression UI](screenshots-/sample2.png)
 ![compression UI](screenshots-/sample3.png)
+
+
+> **Note:** This project is developed strictly for the university curriculum and educational purposes only 😊. It is not intended for commercial use or production environments.
+
