@@ -19,7 +19,7 @@ The **File Compression Tool** is a Windows Forms application developed in C# tha
 - Conversely, if the data is mostly random or has little repetition, the compression results will be limited or may not reduce the size noticeably.
 - These algorithms work well for data with lots of redundancy, making them suitable for text files, logs, and certain types of media with repetitive patterns(e.g., JSON).
   
-*Note: 🖇 * While Huffman and Shannon-Fano coding are excellent educational tools, modern applications often employ more advanced algorithms like ZIP, LZMA, or DEFLATE for practical use.
+> While Huffman and Shannon-Fano coding are excellent educational tools, modern applications often employ more advanced algorithms like ZIP, LZMA, or DEFLATE for practical use.
 
 ## 🖼 Screenshots from the app
 
