@@ -12,3 +12,7 @@ The **File Compression Tool** is a Windows Forms application developed in C# tha
 - **⏸️▶️ Pause/Resume and Cancel**: Pause or cancel ongoing operations.
 - **⚔️ Algorithm Comparison**: Compare the performance (size and time) of Huffman and Shannon-Fano algorithms on selected files.
 - **🙌 User-Friendly Interface**: Intuitive UI with clear controls and multilingual (Arabic/English) feedback.
+
+## 🖼 Screenshots from the app
+
+![compression UI](screenshots-/sample1.png)
